@@ -18,6 +18,33 @@
         "Elements",
         "selExercises.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "btnFavoriteExercise.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "btnMobileNavigation.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "lblExcercises.json"
+      ]
     }
   ],
   "class": "",
@@ -34,7 +61,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "favExercises.onshow()",
+  "onshow": "ABFavExercises.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
