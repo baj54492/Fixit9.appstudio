@@ -15,9 +15,9 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": "auto",
+  "height": 30,
   "hidden": "",
-  "id": "lblExcercises",
+  "id": "lblExercises",
   "labelStyle": "text",
   "left": 35,
   "mAll": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 296,
-  "value": "Label",
-  "width": "auto"
+  "top": 291,
+  "value": "",
+  "width": 228
 }
